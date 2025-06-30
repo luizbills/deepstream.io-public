@@ -11,6 +11,6 @@ npm i
 npm run start
 ```
 
-Done! Now your deepstream server is running in `localhost:6020`.
+Done! Now your local deepstream server is running in `localhost:6020`.
 
 > On some platforms (such as [fly.io](https://fly.io)) you may need to change the PORT to 3000. Make this change in "scripts" in the [package.json](/package.json). 
