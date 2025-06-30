@@ -1,6 +1,6 @@
 # Public deepstream.io server
 
-A simple repository to facilitate the deployment or testing of a deepstream.io server.
+A simple repository to facilitate the deployment or testing of a [deepstream.io](https://deepstream.io) server.
 
 ## Usage
 
