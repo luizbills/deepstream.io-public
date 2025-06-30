@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "PORT=${PORT:-6020} deepstream start"
+  },
+  "dependencies": {
+    "@deepstream/server": "^9.1.1"
+  }
+}
