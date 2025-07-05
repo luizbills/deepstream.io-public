@@ -11,4 +11,4 @@ npm ci
 npm run start
 ```
 
-Done! Now your local deepstream server is running in `localhost:6020`.
+Done! Now your deepstream server is running in http://localhost:6020.
