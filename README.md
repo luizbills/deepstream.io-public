@@ -5,9 +5,9 @@ A simple repository to facilitate the deployment or testing of a [deepstream.io]
 ## Usage
 
 ```
-git clone https://github.com/luizbills/deepstream.io-public ds
-cd ds
-npm i
+git clone https://github.com/luizbills/deepstream.io-public
+cd deepstream.io-public
+npm ci
 npm run start
 ```
 
